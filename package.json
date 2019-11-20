@@ -1,5 +1,5 @@
 {
-  "name": "CRUD_Fullstack",
+  "name": "crud-01-fullstack",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
