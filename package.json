@@ -1,5 +1,5 @@
 {
-  "name": "CRUD_Fullstack",
+  "name": "crud-01-fullstack",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,8 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build --aot -prod"
-
+    "heroku-postbuild": "ng build --prod"
   },
   "private": true,
   "dependencies": {
